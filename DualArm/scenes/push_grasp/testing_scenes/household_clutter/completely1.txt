@@ -1,0 +1,15 @@
+household_objects/plastic_banana/model.urdf 0.0000 1.0000 0.0000 0.0034 0.4850 0.0500 0.0000 -0.0000 3.9639
+household_objects/stapler_1/model.urdf 1.0000 1.0000 1.0000 -0.0870 0.5168 0.0500 0.0000 -0.0000 3.1416
+household_objects/scissors/model.urdf 1.0000 1.0000 1.0000 -0.1453 0.4588 0.0500 0.0000 -0.0000 2.6452
+household_objects/sugar_box/model.urdf 1.0000 1.0000 1.0000 -0.2976 0.5889 0.0500 0.0000 0.0000 4.0240
+household_objects/toothpaste_1/model.urdf 1.0000 1.0000 1.0000 0.1568 0.5136 0.0527 0.0000 0.0000 3.7981
+household_objects/suger_1/model.urdf 1.0000 1.0000 1.0000 0.0262 0.6793 0.0500 0.0000 -0.0000 3.1416
+household_objects/remote_controller_2/model.urdf 1.0000 1.0000 1.0000 -0.1218 0.5665 0.0318 0.0000 -0.0000 3.1416
+household_objects/medium_clamp/model.urdf 1.0000 1.0000 1.0000 -0.2744 0.4210 0.0500 0.0000 0.0000 0.3920
+YcbMasterChefCan/model.urdf 1.0000 1.0000 1.0000 -0.4135 0.4812 0.1000 0.0000 -0.0000 3.1416
+household_objects/square_plate_3/model.urdf 1.0000 1.0000 1.0000 -0.0820 0.4415 0.1181 -3.1416 -3.1416 -0.0000
+YcbPottedMeatCan/model.urdf 1.0000 1.0000 1.0000 0.0492 0.4328 0.0593 0.0000 -0.0000 3.1416
+household_objects/plastic_strawberry/model.urdf 1.0000 1.0000 1.0000 -0.1291 0.4357 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_3/model.urdf 1.0000 1.0000 1.0000 -0.0796 0.3516 0.0500 0.0000 0.0000 0.0000
+household_objects/square_plate_4/model.urdf 1.0000 1.0000 1.0000 0.0400 0.5540 0.0792 3.1416 0.0000 3.1416
+household_objects/poker_1/model.urdf 1.0000 1.0000 1.0000 -0.2371 0.4921 0.0500 0.0000 -0.0000 3.1416

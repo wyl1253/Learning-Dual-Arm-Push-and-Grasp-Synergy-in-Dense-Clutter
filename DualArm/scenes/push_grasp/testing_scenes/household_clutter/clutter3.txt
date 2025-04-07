@@ -1,0 +1,8 @@
+household_objects/stapler_1/model.urdf 0.0000 1.0000 0.0000 0.0082 0.4848 0.0500 0.0000 -0.0000 3.1416
+household_objects/toothpaste_1/model.urdf 1.0000 1.0000 1.0000 -0.1167 0.4680 0.0500 0.0000 -0.0000 0.1253
+household_objects/stapler_2/model.urdf 1.0000 1.0000 1.0000 -0.0001 0.4567 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_1/model.urdf 1.0000 1.0000 1.0000 0.0004 0.5507 0.0800 0.0000 -0.0000 3.1416
+household_objects/sugar_box/model.urdf 1.0000 1.0000 1.0000 -0.0128 0.3687 0.0500 0.0000 -0.0000 3.1416
+household_objects/spoon/model.urdf 1.0000 1.0000 1.0000 -0.0596 0.5096 0.0500 0.0000 -0.0000 3.1416
+household_objects/two_color_hammer/model.urdf 1.0000 1.0000 1.0000 0.0018 0.4364 0.0500 0.0000 0.0000 3.1416
+household_objects/remote_controller_2/model.urdf 1.0000 1.0000 1.0000 0.0669 0.5445 0.0500 0.0000 -0.0000 1.5708

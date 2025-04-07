@@ -1,0 +1,15 @@
+household_objects/remote_controller_2/model.urdf 0.0000 1.0000 0.0000 -0.0613 0.5000 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_1/model.urdf 1.0000 1.0000 1.0000 -0.1344 0.4359 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_2/model.urdf 1.0000 1.0000 1.0000 -0.0982 0.6794 0.0732 0.0000 -0.0000 3.1416
+household_objects/suger_3/model.urdf 1.0000 1.0000 1.0000 -0.0433 0.6592 0.0500 0.0000 -0.0000 3.1416
+household_objects/correction_fluid/model.urdf 1.0000 1.0000 1.0000 -0.0500 0.5822 0.0500 0.0000 -0.0000 3.1416
+household_objects/orion_pie/model.urdf 1.0000 1.0000 1.0000 -0.0195 0.4918 0.1249 1.5708 0.0000 3.1416
+household_objects/flat_screwdriver/model.urdf 1.0000 1.0000 1.0000 -0.0155 0.6315 0.0500 0.0000 0.0000 1.5708
+household_objects/pen_container_1/model.urdf 1.0000 1.0000 1.0000 -0.2272 0.4954 0.0690 0.0000 -0.0000 4.6387
+household_objects/poker_1/model.urdf 1.0000 1.0000 1.0000 -0.0554 0.4399 0.0500 0.0000 -0.0000 3.1416
+household_objects/repellent/model.urdf 1.0000 1.0000 1.0000 0.1134 0.4911 0.0500 1.5708 -0.0000 6.3467
+household_objects/spoon/model.urdf 1.0000 1.0000 1.0000 0.1000 0.6191 0.0500 0.0000 -0.0000 3.1416
+household_objects/square_plate_1/model.urdf 1.0000 1.0000 1.0000 -0.1283 0.5000 0.1516 0.2938 -3.1353 1.5689
+household_objects/gelatin_box/model.urdf 1.0000 1.0000 1.0000 -0.0992 0.6037 0.1091 0.0000 -0.0000 3.1416
+household_objects/plastic_banana/model.urdf 1.0000 1.0000 1.0000 0.0295 0.5000 0.0500 0.0000 -0.0000 1.7576
+household_objects/plastic_strawberry/model.urdf 1.0000 1.0000 1.0000 0.0151 0.4681 0.0500 0.0000 -0.0000 3.1416

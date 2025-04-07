@@ -1,0 +1,15 @@
+household_objects/cleanser/model.urdf 1.0000 1.0000 1.0000 0.0526 0.4622 0.0500 1.5708 -0.0000 0.3495
+household_objects/plastic_lemon/model.urdf 1.0000 1.0000 1.0000 -0.0061 0.5990 0.0500 0.0000 -0.0000 3.1416
+household_objects/medium_clamp/model.urdf 1.0000 1.0000 1.0000 0.1308 0.5376 0.0500 0.0000 0.0000 3.6217
+household_objects/poker_1/model.urdf 1.0000 1.0000 1.0000 0.2494 0.5046 0.0500 0.0000 -0.0000 3.1416
+household_objects/square_plate_1/model.urdf 1.0000 1.0000 1.0000 0.0167 0.4948 0.1300 -3.2638 -0.0000 3.1416
+household_objects/stapler_2/model.urdf 1.0000 1.0000 1.0000 -0.0996 0.5460 0.0500 0.0000 0.0000 1.0068
+household_objects/glue_1/model.urdf 0.0000 1.0000 0.0000 0.1266 0.4610 0.1000 0.0000 0.0000 0.0000
+household_objects/two_color_hammer/model.urdf 1.0000 1.0000 1.0000 0.0196 0.6743 0.1000 0.0000 0.0000 2.7942
+household_objects/knife/model.urdf 1.0000 1.0000 1.0000 0.1516 0.4090 0.0500 0.0000 0.0000 4.3548
+household_objects/magic_clean/model.urdf 1.0000 1.0000 1.0000 -0.1511 0.5769 0.0500 1.5708 0.0000 -0.5291
+household_objects/soap/model.urdf 1.0000 1.0000 1.0000 -0.0291 0.4722 0.0500 0.0000 -0.0000 2.0536
+household_objects/lipton_tea/model.urdf 1.0000 1.0000 1.0000 -0.0652 0.3705 0.0500 -1.5398 0.0000 3.1416
+household_objects/orange_cup/model.urdf 1.0000 1.0000 1.0000 -0.1094 0.4612 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_apple/model.urdf 1.0000 1.0000 1.0000 0.0746 0.5764 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_banana/model.urdf 1.0000 1.0000 1.0000 -0.0117 0.6075 0.0500 0.0000 0.0000 4.2970

@@ -1,0 +1,15 @@
+household_objects/mini_claw_hammer_1/model.urdf 0.0000 1.0000 0.0000 0.0000 0.4848 0.0500 0.0000 -0.0000 3.1416
+household_objects/toothpaste_1/model.urdf 1.0000 1.0000 1.0000 -0.1644 0.6040 0.0500 0.0000 -0.0000 3.1416
+household_objects/stapler_1/model.urdf 1.0000 1.0000 1.0000 -0.0433 0.4319 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_1/model.urdf 1.0000 1.0000 1.0000 -0.1147 0.4702 0.0500 0.0000 -0.0000 3.1416
+household_objects/sugar_box/model.urdf 1.0000 1.0000 1.0000 0.2565 0.4833 0.0500 0.0000 -0.0000 1.5708
+household_objects/spoon/model.urdf 1.0000 1.0000 1.0000 -0.0954 0.5125 0.0500 0.0000 -0.0000 3.1416
+household_objects/power_drill/model.urdf 1.0000 1.0000 1.0000 0.1028 0.4618 0.0500 -1.7922 0.0000 3.1416
+household_objects/remote_controller_2/model.urdf 1.0000 1.0000 1.0000 -0.2574 0.5300 0.0500 0.0000 0.0000 5.5219
+household_objects/plastic_plum/model.urdf 1.0000 1.0000 1.0000 -0.0371 0.6227 0.0500 0.0000 -0.0000 3.1416
+household_objects/pink_tea_box/model.urdf 1.0000 1.0000 1.0000 -0.0729 0.6761 0.0500 0.0000 -0.0000 3.1416
+household_objects/mug/model.urdf 1.0000 1.0000 1.0000 0.1078 0.6279 0.0500 0.0000 -0.0000 3.1416
+household_objects/suger_3/model.urdf 1.0000 1.0000 1.0000 -0.0028 0.6583 0.0500 0.0000 -0.0000 3.1416
+household_objects/two_color_hammer/model.urdf 1.0000 1.0000 1.0000 -0.0842 0.5575 0.0500 0.0000 -0.0000 3.1416
+household_objects/blue_marker/model.urdf 1.0000 1.0000 1.0000 -0.0113 0.3909 0.0500 0.0000 0.0000 4.0498
+household_objects/scissors/model.urdf 1.0000 1.0000 1.0000 0.0742 0.7327 0.0500 0.0000 -0.0000 3.1416

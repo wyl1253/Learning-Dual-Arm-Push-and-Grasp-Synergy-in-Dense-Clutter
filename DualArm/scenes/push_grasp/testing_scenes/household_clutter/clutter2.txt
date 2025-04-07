@@ -1,0 +1,8 @@
+household_objects/plastic_pear/model.urdf 0.0000 1.0000 0.0000 0.0000 0.4848 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_apple/model.urdf 1.0000 1.0000 1.0000 -0.0315 0.4362 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_banana/model.urdf 1.0000 1.0000 1.0000 0.1447 0.5232 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_lemon/model.urdf 1.0000 1.0000 1.0000 0.0896 0.5136 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_orange/model.urdf 1.0000 1.0000 1.0000 0.0110 0.3608 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_peach/model.urdf 1.0000 1.0000 1.0000 -0.0420 0.5190 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_strawberry/model.urdf 1.0000 1.0000 1.0000 0.0259 0.5595 0.0500 0.0000 -0.0000 3.1416
+household_objects/plastic_plum/model.urdf 1.0000 1.0000 1.0000 0.0715 0.4522 0.0500 0.0000 -0.0000 3.1416

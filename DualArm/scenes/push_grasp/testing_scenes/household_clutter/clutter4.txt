@@ -1,0 +1,8 @@
+household_objects/potato_chip_1/model.urdf 0.0000 1.0000 0.0000 0.0000 0.4848 0.0500 1.5708 0.0000 3.1416
+household_objects/pen_container_1/model.urdf 1.0000 1.0000 1.0000 -0.1264 0.5684 0.0800 0.0000 -0.0000 3.1416
+household_objects/stapler_1/model.urdf 1.0000 1.0000 1.0000 0.0007 0.3621 0.0500 0.0000 -0.0000 3.1416
+household_objects/clear_box_2/model.urdf 1.0000 1.0000 1.0000 -0.1129 0.4347 0.0800 0.0000 0.0000 4.7199
+household_objects/clear_box/model.urdf 1.0000 1.0000 1.0000 0.1138 0.4833 0.0800 0.0000 0.0000 0.0000
+household_objects/suger_2/model.urdf 1.0000 1.0000 1.0000 0.1624 0.6138 0.0800 0.0000 -0.0000 3.1416
+household_objects/suger_3/model.urdf 1.0000 1.0000 1.0000 0.0830 0.3596 0.0500 1.5708 0.0000 1.5708
+household_objects/remote_controller_1/model.urdf 1.0000 1.0000 1.0000 0.0434 0.6175 0.0500 0.0000 0.0000 0.0000

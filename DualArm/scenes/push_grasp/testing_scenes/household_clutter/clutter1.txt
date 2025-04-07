@@ -1,0 +1,8 @@
+household_objects/pudding_box/model.urdf 0.0000 1.0000 0.0000 0.0301 0.5078 0.1000 0.0000 1.5708 0.0000
+household_objects/blue_tea_box/model.urdf 1.0000 1.0000 1.0000 0.0423 0.6037 0.1000 0.0000 -0.0000 3.1416
+household_objects/pink_tea_box/model.urdf 1.0000 1.0000 1.0000 0.0143 0.4127 0.1000 0.0000 -0.0000 3.1416
+household_objects/lipton_tea/model.urdf 1.0000 1.0000 1.0000 -0.0689 0.4852 0.1000 0.0000 -0.0000 3.1416
+household_objects/pen_container_1/model.urdf 1.0000 1.0000 1.0000 0.0982 0.4773 0.1000 0.0000 -0.0000 1.5708
+household_objects/mug/model.urdf 1.0000 1.0000 1.0000 0.1360 0.6252 0.1000 0.0000 -0.0000 3.9153
+household_objects/knife/model.urdf 1.0000 1.0000 1.0000 -0.1051 0.5904 0.0500 0.0000 0.0000 0.0000
+household_objects/remote_controller_2/model.urdf 1.0000 1.0000 1.0000 -0.0926 0.5507 0.0500 0.0000 -0.0000 0.0000
