@@ -1,0 +1,30 @@
+<robot name="sphere">
+  <link name="sphere">
+
+    <inertial>
+      <origin xyz="0 0 0" />
+      <mass value="0.0" />
+      <inertia  ixx="0.00003375" ixy="0.0"  ixz="0.0"  iyy="0.00003375"  iyz="0.0"  izz="0.00003375" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0 0 0"/>
+      <geometry>
+        <sphere radius="0.05"/>
+      </geometry>
+      <material name="red">
+        <color rgba="0.7 0.4 1.0 1.0"/>
+      </material>
+    </visual>
+<!--
+    <collision>
+      <origin xyz="0 0 0"/>
+      <geometry>
+        <sphere radius="0"/>
+      </geometry>
+    </collision>
+-->
+  </link>
+
+
+</robot>
