@@ -4,13 +4,14 @@
 
 > **⚠️ This project is NOT complete yet.**  
 > ⏳ *I'll finish it soon — currently busy with relocation.*  
->  
+>  All of the scenes and objects referenced in the paper have already been added to the `asset` and `scene` folders.
 > 🙏 Thanks for your patience!
 
 
 ### About this repository
 
 This repository provides the paper's implementation and examples for generating various cluttered scenes in Isaac Gym.
+
 
 If you are unable to develop your manipulator URDFs, you can refer to the following open-source repositories for ready-to-use robot models:
 
